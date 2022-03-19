@@ -1,0 +1,86 @@
+<html lang="fun">
+<head>
+    <style>
+        li ul {display: none;
+        }
+
+        li:hover{
+            background-color: aqua;
+            color:black
+        }
+
+        li:hover>ul{display: block;
+        position : relative ;
+        left: 70px;
+        top: -45px;
+        }
+
+        li{
+            list-style: none;
+            padding: 10px 10px;
+            width : 100px;
+            height : 20px;
+            color:black;
+            background-color: yellow;
+        }
+    </style>
+
+</head>
+<body>
+    <div>
+        <h1>Le pont mirabeau </h1>
+
+        <li> Home </li>
+
+        <li>Services
+            <ul>
+                <li>Strategy</li>
+                <li>Optimization</li>
+            </ul>
+        </li>
+
+        <li>Publications
+                <ul>
+                    <li>Articles</li>
+                    <li>tutorials</li>
+                </ul>
+        </li>
+
+        <li>Events</li>
+        <li>Contact</li>
+
+      
+    </div>
+</body>
+<CENTER> Sous le pont Mirabeau coule la Seine <BR>
+Et nos amours  <BR>
+Faut-il qu’il m’en souvienne  <BR>
+La joie venait toujours après la peine  <BR>
+
+Vienne la nuit sonne l’heure <BR>
+Les jours s’en vont je demeure  <BR>
+
+Les mains dans les mains restons face à face <BR>
+Tandis que sous <BR>
+Le pont de nos bras passe <BR>
+Des éternels regards l’onde si lasse  <BR>
+
+Vienne la nuit sonne l’heure <BR>
+Les jours s’en vont je demeure <BR>
+
+L’amour s’en va comme cette eau courante <BR>
+L’amour s’en va <BR>
+Comme la vie est lente <BR>
+Et comme l’Espérance est violente <BR>
+
+Vienne la nuit sonne l’heure <BR>
+Les jours s’en vont je demeure <BR>
+
+Passent les jours et passent les semaines <BR>
+Ni temps passé <BR>
+Ni les amours reviennent <BR>
+Sous le pont Mirabeau coule la Seine <BR>
+
+Vienne la nuit sonne l’heure 
+Les jours s’en vont je demeure <BR> Guillaume Apollinaire, Alcools, 1913</CENTER>
+</html>
